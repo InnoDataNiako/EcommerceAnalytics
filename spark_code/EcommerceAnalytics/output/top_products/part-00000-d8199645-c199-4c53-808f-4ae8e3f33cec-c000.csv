@@ -1,0 +1,101 @@
+product_id,nom_produit,categorie,prix,note,chiffre_affaires,nombre_ventes,rang_categorie
+P00856,Eco Car Accessory 857,Automotive,1983.22,1.9,62903.81,28,1
+P00591,Classic Motor Oil 592,Automotive,1698.11,1.9,61952.240000000005,31,2
+P04067,Standard Battery 68,Automotive,1848.58,4.2,57576.95,26,3
+P04301,Standard Car Parts 302,Automotive,1863.46,3.1,56041.33,24,4
+P01015,Elite Tire 16,Automotive,1829.86,1.3,55775.75000000001,26,5
+P00548,Standard Motor Oil 549,Automotive,1820.32,3.7,54722.45999999999,26,6
+P04162,Modern Tire 163,Automotive,1684.14,3.6,53438.36,26,7
+P01988,Classic Car Accessory 989,Automotive,1876.21,4.2,53250.62,26,8
+P01864,Eco Car Accessory 865,Automotive,1717.13,4.9,52956.49,25,9
+P02186,Standard Battery 187,Automotive,1945.24,2.9,52599.21,25,10
+P04168,Deluxe Makeup Kit 169,Beauty,196.08,4.9,7116.98,32,1
+P02300,Modern Perfume 301,Beauty,186.36,1.9,6672.65,31,2
+P04889,Eco Hair Care 890,Beauty,193.92,4.2,6432.390000000001,30,3
+P00577,Classic Face Mask 578,Beauty,198.44,1.0,6133.09,26,4
+P00896,Elite Nail Polish 897,Beauty,170.25,2.0,6081.35,28,5
+P01511,Premium Beauty Tool 512,Beauty,199.7,2.5,6069.17,29,6
+P01029,Classic Makeup Kit 30,Beauty,171.79,2.3,5967.58,31,7
+P04457,Classic Face Mask 458,Beauty,180.23,4.8,5843.33,29,8
+P01031,Premium Perfume 32,Beauty,195.44,3.5,5827.290000000001,24,9
+P00725,Premium Nail Polish 726,Beauty,195.29,4.5,5623.089999999999,25,10
+P04769,Classic Cookbook 770,Books,49.69,2.7,1556.94,24,1
+P04876,Deluxe Science Book 877,Books,45.09,4.1,1555.06,28,2
+P00208,Eco Cookbook 209,Books,47.37,4.6,1514.29,27,3
+P03289,Premium Biography 290,Books,45.31,2.6,1420.4700000000003,26,4
+P02284,Premium Biography 285,Books,37.82,4.4,1412.48,32,5
+P02097,Standard Cookbook 98,Books,35.95,3.7,1407.3799999999999,34,6
+P01704,Modern Cookbook 705,Books,44.76,2.9,1399.86,30,7
+P03132,Standard Science Book 133,Books,35.41,2.5,1386.3000000000002,29,8
+P01451,Pro Art Book 452,Books,45.23,1.4,1382.98,25,9
+P04040,Elite Cookbook 41,Books,43.21,2.9,1362.04,27,10
+P03205,Classic Jacket 206,Clothing,263.48,1.9,9041.67,27,1
+P02685,Premium Handbag 686,Clothing,245.64,2.7,8762.31,30,2
+P00601,Deluxe Handbag 602,Clothing,245.14,3.9,8320.06,27,3
+P04982,Eco Handbag 983,Clothing,274.85,2.8,8086.76,26,4
+P04434,Classic T-Shirt 435,Clothing,298.46,4.1,8069.35,25,5
+P03627,Premium Handbag 628,Clothing,237.09,1.7,8018.950000000001,28,6
+P00542,Pro Sneakers 543,Clothing,235.6,2.8,8012.45,28,7
+P03755,Standard T-Shirt 756,Clothing,278.46,4.1,7952.519999999999,26,8
+P02274,Pro Handbag 275,Clothing,292.78,1.3,7950.429999999999,25,9
+P03688,Standard Sneakers 689,Clothing,227.0,2.0,7872.96,29,10
+P02699,Modern Smartphone 700,Electronics,1877.49,2.8,59761.13,29,1
+P04294,Elite Smart TV 295,Electronics,1946.58,1.9,59159.66,26,2
+P01937,Eco Laptop 938,Electronics,1798.94,1.7,58932.06999999999,27,3
+P02244,Premium Headphones 245,Electronics,1798.21,3.6,56021.950000000004,26,4
+P03058,Premium Tablet 59,Electronics,1965.78,3.9,55911.84,22,5
+P01623,Standard Gaming Console 624,Electronics,1825.73,4.4,55756.700000000004,25,6
+P04862,Deluxe Smart TV 863,Electronics,1984.35,1.8,55074.19,23,7
+P03387,Deluxe Tablet 388,Electronics,1561.67,3.3,53810.09,28,8
+P01435,Classic Headphones 436,Electronics,1758.86,1.4,53394.23,27,9
+P00771,Deluxe Laptop 772,Electronics,1872.51,1.9,52213.13999999999,24,10
+P00848,Elite Artisan Chocolate 849,Food,96.66,1.4,3185.71,27,1
+P01267,Premium Spice Set 268,Food,90.21,3.2,3162.3199999999997,33,2
+P01579,Modern Cheese 580,Food,95.75,1.1,3107.17,29,3
+P00618,Premium Spice Set 619,Food,87.61,1.8,3090.58,30,4
+P00900,Deluxe Premium Honey 901,Food,95.17,2.6,3005.72,25,5
+P00928,Standard Premium Honey 929,Food,94.55,2.9,2972.38,25,6
+P03637,Eco Spice Set 638,Food,97.26,1.8,2888.15,26,7
+P00651,Eco Wine 652,Food,90.34,1.6,2758.99,25,8
+P04248,Elite Gourmet Coffee 249,Food,79.03,1.5,2752.6400000000003,30,9
+P04105,Elite Cheese 106,Food,77.96,3.8,2724.0299999999997,28,10
+P02823,Deluxe First Aid Kit 824,Health,171.78,4.6,6648.120000000001,32,1
+P02527,Premium Thermometer 528,Health,177.96,2.5,6401.110000000001,31,2
+P01893,Standard Supplement 894,Health,194.85,1.0,6279.09,27,3
+P00566,Modern Thermometer 567,Health,195.91,1.0,6188.55,28,4
+P03107,Classic Scale 108,Health,186.23,3.2,5908.860000000001,28,5
+P02120,Modern Essential Oil 121,Health,190.2,3.2,5869.4,27,6
+P00209,Pro Protein Powder 210,Health,193.82,3.4,5822.46,27,7
+P01816,Modern Protein Powder 817,Health,162.71,4.4,5715.96,29,8
+P01357,Deluxe First Aid Kit 358,Health,196.38,3.1,5593.530000000001,25,9
+P04572,Classic Essential Oil 573,Health,193.73,4.6,5526.799999999999,26,10
+P01092,Pro Garden Tool 93,Home & Garden,868.8,1.8,34031.98999999999,33,1
+P01770,Classic Decoration 771,Home & Garden,898.81,1.5,31286.93,30,2
+P00623,Premium Table 624,Home & Garden,941.15,1.9,30945.189999999995,29,3
+P04197,Pro Decoration 198,Home & Garden,996.87,2.1,30414.87,29,4
+P02648,Modern Plant 649,Home & Garden,894.6,3.7,30271.39,30,5
+P01555,Premium Kitchen Set 556,Home & Garden,910.03,5.0,30018.260000000002,30,6
+P01011,Premium Sofa 12,Home & Garden,808.62,3.6,29884.050000000003,28,7
+P02004,Deluxe Kitchen Set 5,Home & Garden,980.1,4.4,29057.54,28,8
+P01210,Premium Lamp 211,Home & Garden,964.92,2.0,28687.459999999992,26,9
+P01563,Standard Sofa 564,Home & Garden,914.52,3.2,28400.329999999998,25,10
+P00103,Classic Tennis Racket 104,Sports,482.13,1.7,20046.86,32,1
+P01380,Modern Tennis Racket 381,Sports,493.08,4.6,19235.77,31,2
+P04969,Classic Football 970,Sports,443.67,2.7,16271.73,29,3
+P04074,Standard Bicycle 75,Sports,485.36,1.5,15724.68,27,4
+P01415,Eco Bicycle 416,Sports,493.42,4.4,15218.019999999997,25,5
+P02962,Classic Yoga Mat 963,Sports,491.25,3.9,14980.69,26,6
+P00933,Classic Running Shoes 934,Sports,438.18,2.9,14223.399999999998,25,7
+P03130,Pro Bicycle 131,Sports,377.82,1.6,13894.860000000002,32,8
+P01355,Pro Bicycle 356,Sports,419.5,5.0,13858.960000000001,30,9
+P02556,Classic Yoga Mat 557,Sports,465.32,4.7,13546.95,26,10
+P01935,Deluxe Puzzle 936,Toys,197.84,2.2,6946.949999999999,34,1
+P01980,Pro Puzzle 981,Toys,186.97,1.7,6558.97,26,2
+P04830,Standard Remote Car 831,Toys,185.53,1.3,6236.66,26,3
+P03662,Classic Puzzle 663,Toys,154.42,4.3,5896.110000000001,32,4
+P04909,Elite Building Blocks 910,Toys,190.13,3.9,5619.720000000001,23,5
+P00567,Pro Action Figure 568,Toys,181.72,4.1,5606.780000000001,28,6
+P03223,Classic Educational Toy 224,Toys,191.62,3.6,5565.820000000001,24,7
+P04998,Eco Building Blocks 999,Toys,185.06,1.5,5489.19,26,8
+P02288,Eco Doll 289,Toys,190.09,1.3,5330.3,24,9
+P04085,Premium Remote Car 86,Toys,190.12,3.4,5311.66,29,10
